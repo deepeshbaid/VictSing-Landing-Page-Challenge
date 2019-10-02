@@ -47,7 +47,7 @@ Header
 
 .navbar-default .navbar-nav > .active > a,.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus
 {
-	border-bottom: 2px solid #E74C3C;
+	border-bottom: 2px solid #E75C3C;
     outline: none;
 }
 .navbar {
